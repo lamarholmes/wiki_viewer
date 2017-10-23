@@ -1,0 +1,18 @@
+body {background: #778899;}
+
+.infobox {
+  margin: 0 auto 5px 25%;
+}
+
+.infobox:hover {
+  background: #A9A9A9;
+  color : white;
+}
+
+.lightLink {
+  color : white;
+}
+
+.lightLink:hover {
+  color : white;
+}
